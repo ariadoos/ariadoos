@@ -1,6 +1,6 @@
 ### Hey, I'm Nikesh 👋
 
-I'm a Software Engineer based in Finland with a passion for creafting innovative digital solutions for real world problems. 
+I'm a Software Engineer based in Finland with a passion for crafting innovative digital solutions for real world problems. 
 
 **Buzzwords:** `Cloud Development` `Full Stack Development` `GenAI` `Machine Learning` 
 
@@ -11,11 +11,13 @@ I'm a Software Engineer based in Finland with a passion for creafting innovative
 
 **Backend Development:** `NodeJs` `Laravel (PHP)` `Python`
 
-**Version Control:** `Git` `GitLab` `GitHub` `Azure DevOps`
+**Version Control:** `Git` `GitLab` `GitHub` `Azure DevOps` 
 
 **Testing:** `Jest` `Karma` `Cypress` `Playwright`
 
 **Cloud & DevOps:** `Azure` `Terraform` 
+
+**Others:** `DevOps` `DevSecOps` `GitScrum` `Jira` 
 
 
 ## 📫 Contact:
