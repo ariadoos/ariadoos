@@ -20,7 +20,7 @@ I'm a Software Engineer based in Finland with a passion for crafting innovative 
 **Others:** `DevOps` `DevSecOps` `GitScrum` `Jira` 
 
 
-## 📫 Contact:
+## 📫 Contact
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/nikesh-adhikari-50a0a51a0/).
 
