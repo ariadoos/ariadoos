@@ -7,7 +7,7 @@ I'm a Software Engineer based in Finland with a passion for crafting innovative 
 
 ## ⚡ Skillset
 
-**Frontend Developement:** `JavaScript` `TypeScript` `Angular` `Vue` `React` `Material-UI` `CSS3`
+**Frontend Development:** `JavaScript` `TypeScript` `Angular` `Vue` `React` `Material-UI` `CSS3`
 
 **Backend Development:** `NodeJs` `Laravel (PHP)` `Python`
 
