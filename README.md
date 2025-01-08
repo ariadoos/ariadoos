@@ -22,7 +22,7 @@ I'm a Software Engineer based in Finland with a passion for crafting innovative 
 
 ## 📫 Contact
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/nikesh-adhikari-50a0a51a0/).
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/nikesh-bahadur-adhikari/).
 
 
 
