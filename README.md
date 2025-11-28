@@ -15,7 +15,7 @@ I'm a Software Engineer based in Finland with a passion for crafting innovative 
 
 **Testing:** `Jest` `Karma` `Cypress` `Playwright`
 
-**Cloud & DevOps:** `Azure` `Terraform` 
+**Cloud & DevOps:** `Azure` `Terraform` `Firebase` `GCP`
 
 **Others:** `DevOps` `DevSecOps` `GitScrum` `Jira` 
 
